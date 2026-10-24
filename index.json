@@ -1,0 +1,38 @@
+[
+  {
+    "id": "L21",
+    "slug": "iteration-kelly-sizer",
+    "name": "迭代投入凯利",
+    "cluster": "迭代预算",
+    "dir": "L21-iteration-kelly-sizer",
+    "loc": 39,
+    "chars": 1063
+  },
+  {
+    "id": "L22",
+    "slug": "compute-futures",
+    "name": "计算预算期货",
+    "cluster": "迭代预算",
+    "dir": "L22-compute-futures",
+    "loc": 44,
+    "chars": 1113
+  },
+  {
+    "id": "L23",
+    "slug": "depth-breadth-scheduler",
+    "name": "深挖与铺开调度",
+    "cluster": "迭代预算",
+    "dir": "L23-depth-breadth-scheduler",
+    "loc": 45,
+    "chars": 1307
+  },
+  {
+    "id": "L24",
+    "slug": "marginal-value-clock",
+    "name": "边际收益钟",
+    "cluster": "迭代预算",
+    "dir": "L24-marginal-value-clock",
+    "loc": 39,
+    "chars": 1109
+  }
+]
